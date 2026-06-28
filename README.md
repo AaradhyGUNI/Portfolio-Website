@@ -47,4 +47,3 @@ A modern Full Stack Portfolio Website with a secure Admin Dashboard to manage po
 
 Computer Engineering Student | Full Stack Developer
 
-⭐ If you found this project useful, consider giving it a star.
