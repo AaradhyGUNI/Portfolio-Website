@@ -5,34 +5,46 @@ A modern Full Stack Portfolio Website with a secure Admin Dashboard to manage po
 ## 🚀 Features
 
 - Responsive Design
-- Admin Dashboard
 - Secure Authentication
-- Dynamic Content Management
-- Resume & Image Upload
-- Contact & Social Links
+- Admin Dashboard
+- Dynamic Portfolio Management
+- Skills, Projects, Experience & Education CRUD
+- Resume & Profile Image Upload
+- Contact & Social Links Management
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
+### Frontend
 - React.js
+- Vite
 - Tailwind CSS
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Axios
+
+### Backend
 - Node.js
 - Express.js
-- MongoDB
 - JWT Authentication
+- Multer
+- Bcrypt.js
 
-## 📂 Project Structure
+### Database
+- MongoDB Atlas
+- Mongoose
 
-```
-PortfolioWebsite/
-├── client/
-├── server/
-└── public/
-```
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- REST API
+- Postman
 
 ## 👨‍💻 Developed By
 
 **Aaradhy Sharma**
 
-Computer Engineering Student
+Computer Engineering Student | Full Stack Developer
 
-⭐ Feel free to explore the project and leave a star if you like it.
+⭐ If you found this project useful, consider giving it a star.
